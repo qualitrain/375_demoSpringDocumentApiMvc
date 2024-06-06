@@ -1,0 +1,9 @@
+Demo de Swagger y OPEN API
+
+AppWeb SpringBoot 3:
+
+Para probar IU: 
+http://localhost:8080/swagger-ui/index.html
+
+Para probar API de documentación:
+http://localhost:8080/v3/api-docs
